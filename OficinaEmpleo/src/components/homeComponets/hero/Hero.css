@@ -53,15 +53,15 @@
     font-size: 1.2rem;
     display: inline-flex;
     align-items: baseline;
-    padding: 5px 10px; 
-    margin-right: 5px;
+    padding: 0px 10px; 
+    margin-right: 10px;
     transition: 0.1s ease;
 }
 .RedHero p{
     margin-left: 3px !important;
 }
 .RedHero:hover{
-    background-color: #ce3866;
+    background: linear-gradient(to right , #95387d , #b13972 , #ce3866);
 }
 .fab{
     color: #fff;
